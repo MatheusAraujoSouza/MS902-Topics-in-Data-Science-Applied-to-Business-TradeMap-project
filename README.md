@@ -1,4 +1,4 @@
-# MS902-Topics-in-Data-Science-Applied-to-Business-TradeMap-project
+# News Crawler using TradeMap context
 This project aims to collect and classify news from websites.
 
 sim, é possível, consigo editar sim
