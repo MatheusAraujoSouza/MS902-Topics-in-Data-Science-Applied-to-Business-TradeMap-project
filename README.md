@@ -24,7 +24,8 @@ Trademap is a mobile and desktop platform created to compile tools and contents 
 
 One of these tools is its "News" interface, as showed in the image below.
 
-![alt text](https://trademap.com.br/wp-content/uploads/2020/07/Print-App-Trademap-3-500x1080-1.jpg)
+<img src="https://trademap.com.br/wp-content/uploads/2020/07/Print-App-Trademap-3-500x1080-1.jpg" alt="java" width="400" height="700" /> 
+
 
 In light of this, the project aims to create an alternative version of the web crawler that is already implemented in the app.
 
