@@ -6,7 +6,7 @@ The code was implemented on Databricks, using the student version. Its documenta
 
 Credits to:
 
-Matheus Araujo
+Matheus Souza
 
 Vinicius Jameli
 
